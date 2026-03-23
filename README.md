@@ -14,4 +14,3 @@ O sistema abre automaticamente no navegador em `http://localhost:8080`.
 Todos os dados permanecem exclusivamente no dispositivo local.
 
 ---
-DINTEL / Polícia Civil de Pernambuco
